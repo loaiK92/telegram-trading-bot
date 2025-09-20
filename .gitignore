@@ -2,7 +2,9 @@
 venv/
 .env
 __pycache__/
-model/
+models/
 *.db
 init_database.py
+xauusd_m1_processed.csv
+xauusd_m1_raw.csv
 documentation.txt
