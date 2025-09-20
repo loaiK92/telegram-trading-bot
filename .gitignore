@@ -1,0 +1,8 @@
+# .gitignore
+venv/
+.env
+__pycache__/
+model/
+*.db
+init_database.py
+documentation.txt
